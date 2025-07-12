@@ -2,3 +2,4 @@
 **/package-lock.json
 /library-frontend
 /library-backend
+**/.env
